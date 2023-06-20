@@ -1,0 +1,23 @@
+{
+    "root": "src/",
+    "title": "ChatGPT and the Law: The Legal Implications of AI-Driven Conversations",
+    "description": "",
+    "author": "MingHai Zheng",
+    "language": "en",
+    "producer": "MingHai Zheng",
+    "publisher": "MingHai Zheng",
+    "pdf": {
+        "pageNumbers": true,
+        "embedFonts": true,
+        "fontSize": 18,
+        "paperSize": "a4",
+        "margin": {
+            "right": 62,
+            "left": 62,
+            "top": 36,
+            "bottom": 36
+        },
+        "headerTemplate": null,
+        "footerTemplate": null
+    }
+}

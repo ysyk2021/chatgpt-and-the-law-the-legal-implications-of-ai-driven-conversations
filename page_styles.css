@@ -1,0 +1,26 @@
+a {
+  color: black;
+}
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: black;
+}
+
+a:active {
+  color: black;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	page-break-before: avoid !important;
+	font-weight: normal;
+	font-style: normal;
+	text-align: left;
+	page-break-after: avoid !important;
+}
