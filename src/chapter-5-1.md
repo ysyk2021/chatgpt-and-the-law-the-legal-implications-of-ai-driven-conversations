@@ -1,5 +1,3 @@
-Overview of Intellectual Property and Copyright Laws
-===========================================================================================================
 
 In this chapter, we will provide an overview of intellectual property and copyright laws that apply to AI-generated content like ChatGPT in the legal industry.
 

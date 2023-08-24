@@ -1,5 +1,3 @@
-Relevant Case Studies and Examples
-=========================================================================================
 
 In this chapter, we will discuss the intellectual property and copyright issues that arise from the use of AI-driven conversations like ChatGPT in the legal industry. We will examine relevant case studies and examples to demonstrate the potential legal implications.
 

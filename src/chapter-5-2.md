@@ -1,5 +1,3 @@
-Analysis of How They Apply to AI-Generated Content
-=========================================================================================================
 
 In this chapter, we will discuss the intellectual property and copyright issues that arise from the use of AI-generated content like ChatGPT in the legal industry. We will analyze these issues and offer strategies for managing them.
 

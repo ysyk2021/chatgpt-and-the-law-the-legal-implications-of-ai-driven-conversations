@@ -1,6 +1,7 @@
 book
 _book/
 node_modules/
+*.docx
 *.epub
 *.pdf
 *.mobi
