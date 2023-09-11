@@ -5,4 +5,5 @@ node_modules/
 *.epub
 *.pdf
 *.azw3
+*.zip
 *.mobi
