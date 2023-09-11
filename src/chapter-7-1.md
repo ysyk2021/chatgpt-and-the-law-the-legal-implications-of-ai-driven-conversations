@@ -1,5 +1,4 @@
-Chapter 10: Potential Advancements in ChatGPT and AI-Driven Conversations
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The field of AI-driven conversations is continuously evolving, and innovations in AI technology hold the promise of transforming the landscape further. In this chapter, we explore potential advancements in ChatGPT and AI-driven conversations, highlighting their implications for the legal industry and beyond.
 

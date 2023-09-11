@@ -1,5 +1,4 @@
-Chapter 6: Discussion of Ethical Considerations in AI-Driven Conversations
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As AI-driven conversations become increasingly integrated into our daily lives, it is imperative to engage in thoughtful discussions about the ethical considerations surrounding this technology. In this chapter, we will explore various ethical dimensions that should be carefully considered when developing and deploying AI-driven conversation systems, such as ChatGPT.
 

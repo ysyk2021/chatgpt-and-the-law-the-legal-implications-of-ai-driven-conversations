@@ -1,5 +1,4 @@
-Chapter 5: Discussion of Legal Issues Arising from AI-Driven Conversations
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we engage in a comprehensive discussion of the multifaceted legal issues that emerge in the context of AI-driven conversations, with a particular focus on the implications posed by ChatGPT and similar AI models.
 

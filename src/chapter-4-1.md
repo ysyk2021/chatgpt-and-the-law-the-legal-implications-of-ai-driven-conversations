@@ -1,5 +1,4 @@
-Chapter 1: Overview of Privacy and Data Protection Laws
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As artificial intelligence (AI) technologies, including ChatGPT, continue to advance and become integral to our daily lives, legal frameworks have evolved to address the complex issues surrounding privacy and data protection. In this chapter, we will provide an overview of the key privacy and data protection laws that are relevant to AI-driven conversations and the legal implications they carry.
 

@@ -1,5 +1,4 @@
-Chapter 8: Relevant Case Studies and Examples
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into real-world case studies and examples that highlight the legal implications of AI-driven conversations and the challenges and opportunities they present across various industries.
 

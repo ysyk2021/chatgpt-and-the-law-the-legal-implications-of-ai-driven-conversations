@@ -1,5 +1,4 @@
-Chapter 4: Analysis of How AI-Driven Conversations Apply to Legal Implications
-==============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 AI-driven conversations have revolutionized communication and interaction in various sectors, from customer support to social media. However, this technological advancement has brought about a complex web of legal implications. In this chapter, we will delve into a comprehensive analysis of how these legal implications apply to AI-driven conversations.
 

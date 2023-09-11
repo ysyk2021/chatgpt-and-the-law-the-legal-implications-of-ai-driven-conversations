@@ -1,5 +1,4 @@
-Chapter 6: Analysis of How They Apply to AI-Generated Content
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the intricate web of legal implications surrounding AI-generated content and explore how existing laws and regulations intersect with this emerging field.
 

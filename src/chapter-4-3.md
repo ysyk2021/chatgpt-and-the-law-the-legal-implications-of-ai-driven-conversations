@@ -1,5 +1,4 @@
-Chapter 7: Best Practices for Ensuring Compliance with AI-Driven Conversations Laws
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the ever-evolving landscape of AI-driven conversations, staying compliant with the law is of paramount importance. Failure to do so can result in legal consequences, damage to reputation, and loss of trust from users and customers. This chapter outlines best practices to ensure compliance with the laws governing AI-driven conversations.
 

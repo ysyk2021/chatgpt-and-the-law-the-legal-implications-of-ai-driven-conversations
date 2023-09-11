@@ -1,5 +1,4 @@
-Chapter 5: Strategies for Ensuring Fairness and Transparency
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the realm of AI-driven conversations, ensuring fairness and transparency is not only a moral imperative but also a legal requirement in many jurisdictions. This chapter explores strategies for effectively addressing these critical aspects within the context of AI, with a focus on ChatGPT.
 

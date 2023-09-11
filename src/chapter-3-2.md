@@ -1,5 +1,4 @@
-Chapter 7: Analysis of Potential Risks and Liabilities for Businesses and Individuals
-=====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the myriad of risks and liabilities that businesses and individuals may face when utilizing AI-driven conversations, with a particular focus on ChatGPT. Understanding these risks is essential for effective risk mitigation and compliance with legal standards.
 

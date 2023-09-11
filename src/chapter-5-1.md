@@ -1,5 +1,4 @@
-Chapter 3: Overview of Intellectual Property and Copyright Laws
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide a comprehensive overview of intellectual property and copyright laws as they pertain to AI-driven conversations and the use of ChatGPT in various legal contexts.
 

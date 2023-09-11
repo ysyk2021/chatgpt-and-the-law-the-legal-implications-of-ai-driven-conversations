@@ -1,5 +1,4 @@
-Chapter 6: Importance of AI-Driven Conversations in the Legal Industry
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The legal industry is not immune to the transformative impact of artificial intelligence, particularly AI-driven conversations. In this chapter, we explore the profound importance of AI-driven conversations within the legal sector, highlighting their potential to streamline processes, enhance efficiency, and improve client experiences.
 

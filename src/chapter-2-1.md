@@ -1,5 +1,4 @@
-Chapter 2: Definition of ChatGPT and AI-Driven Conversations
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide a comprehensive definition of ChatGPT and AI-driven conversations, setting the stage for a deeper exploration of the legal implications that surround them.
 

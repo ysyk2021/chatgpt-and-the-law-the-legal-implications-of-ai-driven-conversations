@@ -1,5 +1,4 @@
-Chapter 12: Emerging Trends and Challenges in the Legal Industry and ChatGPT
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the dynamic landscape of the legal industry and ChatGPT, focusing on the emerging trends and challenges that are reshaping the practice of law.
 
